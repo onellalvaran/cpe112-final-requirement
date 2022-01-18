@@ -2,7 +2,7 @@
 
 int main()
 {
-    std::cout << " HI CRUSH " << std::endl;
+    std::cout << "Final Requirement Template" << std::endl;
 
     return 0;
 }
